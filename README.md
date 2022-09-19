@@ -1,2 +1,2 @@
-# bash-alias
+# bash-aliases
 Collection of Bash Aliases
